@@ -115,6 +115,10 @@ for(let i=0; i<buttons.length-1; i++){
 }
 
 clearButt.addEventListener('click', function(){
+    display.textContent=""
+    num1=""
+    num2=""
+    state=false
 
 })
 return operand = clear
