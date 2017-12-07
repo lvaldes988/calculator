@@ -121,7 +121,7 @@ clearButt.addEventListener('click', function(){
     state =false
 
 })
-return operand = clear
+//return operand = clear
 
 //clear = false
 //
